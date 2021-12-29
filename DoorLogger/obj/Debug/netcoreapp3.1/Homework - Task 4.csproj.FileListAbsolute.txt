@@ -1,0 +1,14 @@
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.exe
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.deps.json
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.runtimeconfig.json
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.runtimeconfig.dev.json
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.dll
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\bin\Debug\netcoreapp3.1\Homework - Task 4.pdb
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.csproj.AssemblyReference.cache
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.AssemblyInfoInputs.cache
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.AssemblyInfo.cs
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.dll
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.pdb
+C:\Users\Markow\source\repos\Homework - Task 4\Homework - Task 4\obj\Debug\netcoreapp3.1\Homework - Task 4.genruntimeconfig.cache
