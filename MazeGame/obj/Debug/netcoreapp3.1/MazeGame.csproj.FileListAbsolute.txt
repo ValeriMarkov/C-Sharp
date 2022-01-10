@@ -1,0 +1,14 @@
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.exe
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.deps.json
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.runtimeconfig.json
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.runtimeconfig.dev.json
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.dll
+C:\Users\Markow\source\repos\MazeGame\MazeGame\bin\Debug\netcoreapp3.1\MazeGame.pdb
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.csproj.AssemblyReference.cache
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.AssemblyInfoInputs.cache
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.AssemblyInfo.cs
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.dll
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.pdb
+C:\Users\Markow\source\repos\MazeGame\MazeGame\obj\Debug\netcoreapp3.1\MazeGame.genruntimeconfig.cache
