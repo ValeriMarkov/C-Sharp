@@ -1,0 +1,14 @@
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.exe
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.deps.json
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.runtimeconfig.json
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.runtimeconfig.dev.json
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.dll
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\bin\Debug\netcoreapp3.1\Grasshopper - Summation.pdb
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.csproj.AssemblyReference.cache
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.AssemblyInfoInputs.cache
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.AssemblyInfo.cs
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.csproj.CoreCompileInputs.cache
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.dll
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.pdb
+C:\Users\Markow\source\repos\Grasshopper - Summation\Grasshopper - Summation\obj\Debug\netcoreapp3.1\Grasshopper - Summation.genruntimeconfig.cache
