@@ -1,0 +1,13 @@
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.exe
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.deps.json
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.runtimeconfig.json
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.runtimeconfig.dev.json
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.dll
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\bin\Debug\netcoreapp3.1\Sum of odd numbers.pdb
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.AssemblyInfoInputs.cache
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.AssemblyInfo.cs
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.csproj.CoreCompileInputs.cache
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.dll
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.pdb
+C:\Users\Markow\source\repos\CodeWars\Sum of odd numbers\Sum of odd numbers\obj\Debug\netcoreapp3.1\Sum of odd numbers.genruntimeconfig.cache
