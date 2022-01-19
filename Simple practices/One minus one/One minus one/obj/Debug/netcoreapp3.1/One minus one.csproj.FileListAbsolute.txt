@@ -1,0 +1,14 @@
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.exe
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.deps.json
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.runtimeconfig.json
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.runtimeconfig.dev.json
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.dll
+C:\Users\Markow\source\repos\One minus one\One minus one\bin\Debug\netcoreapp3.1\One minus one.pdb
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.csproj.AssemblyReference.cache
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.AssemblyInfoInputs.cache
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.AssemblyInfo.cs
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.csproj.CoreCompileInputs.cache
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.dll
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.pdb
+C:\Users\Markow\source\repos\One minus one\One minus one\obj\Debug\netcoreapp3.1\One minus one.genruntimeconfig.cache
